@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of dshovchko/flarum-image-migrate.** Not for installation: use [Packagist](https://packagist.org/packages/dshovchko/flarum-image-migrate) or the [upstream repository](https://github.com/dshovchko/flarum-image-migrate).
 
-**0** versions archived · Latest: [`v1.2.0`](https://github.com/flarchive/dshovchko-flarum-image-migrate/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^1.0`
+**7** versions archived · Latest: [`v1.2.0`](https://github.com/flarchive/dshovchko-flarum-image-migrate/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2025-11-23 | `^1.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-migrate/tree/archive/v1.0.0) |
+| `v1.0.1` | 2025-11-24 | `^1.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-migrate/tree/archive/v1.0.1) |
+| `v1.1.0` | 2025-11-26 | `^1.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-migrate/tree/archive/v1.1.0) |
+| `v1.1.1` | 2025-11-27 | `^1.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-migrate/tree/archive/v1.1.1) |
+| `v1.1.2` | 2025-11-30 | `^1.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-migrate/tree/archive/v1.1.2) |
+| `v1.1.3` | 2025-12-01 | `^1.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-migrate/tree/archive/v1.1.3) |
+| `v1.2.0` | 2025-12-07 | `^1.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-migrate/tree/archive/v1.2.0) |
 
 Catalog entry: [packages/dshovchko-flarum-image-migrate.json](https://github.com/flarchive/archive-index/blob/main/packages/dshovchko-flarum-image-migrate.json)
 
